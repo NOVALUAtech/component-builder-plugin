@@ -4,6 +4,14 @@
 A component builder plugin for snowpack.
 </p>
 
+## Installing
+
+```
+
+  yarn add -D @novalua/component-builder-plugin
+
+```
+
 ## Usage
 
 - Add the plugin to your snowpack configuration file:
