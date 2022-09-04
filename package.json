@@ -1,0 +1,16 @@
+{
+  "name": "@novalua/component-builder-plugin",
+  "version": "1.0.0",
+  "description": "A component builder plugin for snowpack",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOVALUAtech/component-builder-plugin.git"
+  },
+  "author": "NOVALUA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NOVALUAtech/component-builder-plugin/issues"
+  },
+  "homepage": "https://github.com/NOVALUAtech/component-builder-plugin#readme"
+}
